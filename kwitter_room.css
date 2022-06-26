@@ -1,0 +1,14 @@
+body {
+  background-image: url("clouds.png");
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-family: Courier New, sans-serif;
+}
+h1 {
+  color: white;
+}
+#user_name 
+{
+  color: white;
+}
